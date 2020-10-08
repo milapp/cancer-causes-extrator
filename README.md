@@ -19,6 +19,6 @@ Implemented 2 approaches.
    
    Successfully, captured multiword causes and also words that are far from causal word. 
    
-   Example: ## **The ultra violet radiations causes cancer.** 
+   Example: **The ultra violet radiations causes cancer.** 
    
-   Captured Cause: ## **"The ultra violet radiations"**
+   Captured Cause: **"The ultra violet radiations"**
